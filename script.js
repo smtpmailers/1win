@@ -22,7 +22,7 @@ function startCaptcha() {
 
         // Redirect to the main site after a delay
         setTimeout(() => {
-          window.location.href = "https://1wfqtr.life/casino/list?open=register&p=jjxk"; // Redirect URL
+          window.location.href = "https://flipkart.com"; // Redirect URL
         }, 1500); // 1.5 seconds delay before redirect
     }, 2000); // Simulated processing time (2 seconds)
 }
